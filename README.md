@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Ahirwar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" width="400px" src="https://globaledu.net.in/front-end-development"/>
+<img align="right" width="400" src="https://github.com/rudrabarad/Gifs"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad8518&label=Profile%20views&color=0e75b6&style=flat" alt="sharad8518" /> </p>
 
@@ -24,6 +24,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharad8518&show_icons=true&locale=en" alt="sharad8518" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharad8518&" alt="sharad8518" /></p>
-
-![GiTHub Stats](https://github-readme-stats.vercel.app/api?username=Sharad8518&theme=radical)
 
